@@ -16,9 +16,9 @@ The Green Belt dataset contains boundaries for land designated by local planning
 ## Data Format
 
 The dataset is available in multiple formats:
-- [CSV](https://danbamber.github.io/green-belt-uk/green-belt-gb-en.csv)
-- [JSON](https://danbamber.github.io/green-belt-uk/green-belt-gb-en.json)
-- [GeoJSON](https://danbamber.github.io/green-belt-uk/green-belt-gb-en.geojson)
+- [CSV](https://green-belt-uk.doodan.com/green-belt-gb-en.csv)
+- [JSON](https://green-belt-uk.doodan.com/green-belt-gb-en.json)
+- [GeoJSON](https://green-belt-uk.doodan.com/green-belt-gb-en.geojson)
 
 ## Purpose
 
